@@ -5,15 +5,15 @@ import '../styles/Homehero.css'
 const moduledata = [
     {
         tag:"Day1",
-        heading:"Foundations of Advanced Cloud Infrastructure ",
-        description:"Embark on a journey to master advanced cloud concepts and architectures. Day 1 begins with an exploration of Infrastructure as Code using MERN CloudFormation, providing a practical understanding of how to model and provision MERN resources. Navigate the Cloud Environment Project Lifecycle to ensure effective planning, implementation, and management of cloud projects. Cap off the day by designing and implementing secure, scalable cloud architectures using industry best practices. ",
-        topicCovered:["Master advanced cloud concepts and architectures", "Dive into Infrastructure as Code using MERN CloudFormation.  ", "Navigate the Cloud Environment Project Lifecycle. ", "Design and implement secure, scalable cloud architectures. "]
+        heading:"Configuring API",
+        description:"You will develop foundational skills in api configuration. You’ll also create your own personal account in API Service provider to generate auth key to access the service of the api provider.",
+        topicCovered:["API Service ", "generate auth key"]
     },
     {
         tag:"Day2",
-        heading:"Optimization, Access Management, and Automation ",
-        description:"We welcome you to Day 2 of the 'Advanced Cloud Infrastructure Management' workshop, where we continue to dive deeper into optimizing, managing access, and automating cloud deployments. Start the day by mastering the art of optimizing cloud resources and costs effectively. Explore Access Management and MERN Organizations for governance, ensuring secure and compliant cloud environments. Manage the Data and Control Plane on MERN, gaining insights into storage and governance services. Conclude the workshop by delving into automation with Terraform, empowering you to deploy infrastructure consistently and efficiently. Day 2 promises to elevate your cloud expertise and provide practical skills for real-world cloud management scenarios",
-        topicCovered:["Optimize cloud resources and costs effectively. ", "Explore Access Management and MERN Organizations for governance", "Manage the Data and Control Plane on MERN. ", "Automate cloud deployments with Terraform"]
+        heading:"App Development",
+        description:"You will work with React, React Router, axios and Bootstrap to become confident in the React API Handling. You will learn the essentials for working in the cloud, automation, and deployment for a solid foundation in React. You will learn how to build React applications and how to implement and deploy them on real time hosting.",
+        topicCovered:["React", "Bootstrap", "React API Handling", "automation", 'deployment ', 'real time hosting']
     },
 ]
 function Modules() {
@@ -21,7 +21,7 @@ function Modules() {
    <div className='module-container'>
     <h1 className="fs-1 text-white text-center mt-5">What you can expect in <span className="text-main">2 days</span>?</h1>
     <p className="text-center text-white px-4 lead">
-    We welcome you to the "Advanced Cloud Infrastructure Management" workshop, a comprehensive exploration of MERN Cloud's advanced concepts. Over two days, participants will delve into foundational and advanced topics, gaining hands-on experience and insights into designing, securing, and optimizing cloud environments. 
+    This program is organized into three main modules using the React and Configuring Third Party API. Each module builds on the next, and is designed to prepare you to enter the job market as an entry-level React developer, or to specialize in one of these areas with further skill development.
     </p>
   <div className="conatiner p-3">
     <div className="row align-items-center">

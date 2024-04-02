@@ -11,7 +11,7 @@ const allFaqs = {
     {
         "title": "quest2",
         "quest": "Are there any prerequisites for this program? ",
-        "ans":  "Some programs do have prerequisites, While there are no strict prerequisites, participants should have basic knowledge of cloud computing concepts and familiarity with AWS services.  "
+        "ans":  "Some programs do have prerequisites, particularly the more technical ones. 1.	Good to have a github profile 2.	Good to have a Visual studio code editor"
     },
     {
         "title": "quest3",

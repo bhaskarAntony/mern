@@ -1,19 +1,19 @@
 {
     "working":[
          {
-        "works":"Advanced proficiency in designing and managing MERN Cloud infrastructure"
+        "works":"Build, test, and deploy a web application using the Vercel hosting"
     },
     {
-        "works":"Hands-on experience with Infrastructure as Code (IaC) using MERN CloudFormation and Terraform. "
+        "works":"Build, test using POSTMAN"
     },
     {
-        "works":"Expertise in implementing and optimizing secure, scalable, and cost-effective cloud architectures.  "
+        "works":"Build, test, and deploy a front-end web application using React"
     },
         {
-            "works":"Expertise in implementing and optimizing secure, scalable, and cost-effective cloud architectures. "
+            "works":"Setup Continuous Integration (CI) and Continuous Delivery (CD) pipelines to deploy a React application using GitHub."
         },
         {
-            "works":"Automation skills for efficient and consistent cloud deployments. • Insights into real-world case studies and best practices"
+            "works":"Present a GitHub portfolio of your work to potential employers"
 
         },
         {
