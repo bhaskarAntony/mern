@@ -214,12 +214,12 @@ function Registration() {
           //   return;
           // }
           try {
-              axios.post('https://stormy-flannel-nightgown-ox.cyclic.app/api/aws/register', reg)
+              axios.post('https://stormy-flannel-nightgown-ox.cyclic.app/api/mern/register', reg)
               .then(response => {
                 setLoading(false)
                 
                 // Handle the response data here
-                toast.success("Thank you for registering to AWS Bootcamp")
+                toast.success("Thank you for registering to MERN Bootcamp")
                 setShowModal(true)
                 console.log(response);
               })
@@ -340,7 +340,7 @@ function Registration() {
        <div className="registration-form-container text-center rounded-3">
                 <div className="card register-form rounded-3">
                     <div className="card-header text-start">
-                    <h1 className="p-large-xl text-white">Enroll Our <br />AWS Bootcamp</h1>
+                    <h1 className="p-large-xl text-white">Enroll Our <br />MERN Bootcamp</h1>
             <div className="d-flex align-items-end">
             <h1 className="heading-text text-main mx-2">Free</h1>
             <h1 className="heading-subtitle text-white"><del className='text-danger'>&#8377;1000</del></h1>
