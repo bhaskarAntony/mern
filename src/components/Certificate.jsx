@@ -17,11 +17,11 @@ function Certificate() {
                     </h1>
                 <p className='text-white p-large'>
                     
-                This certificate is awarded in recognition of the participant's active engagement, dedication, and successful completion of the AWS Bootcamp. Throughout the Bootcamp, participants gained valuable knowledge and hands-on experience in the field of AWS.
+                This certificate is awarded in recognition of the participant's active engagement, dedication, and successful completion of the MERN Bootcamp. Throughout the Bootcamp, participants gained valuable knowledge and hands-on experience in the field of MERN.
                 </p>
-                <h1 className='p-large-xl text-900 text-main mb-3'>AWS Bootcamp:</h1>
+                <h1 className='p-large-xl text-900 text-main mb-3'>MERN Bootcamp:</h1>
                 <p className="p-large text-white">
-                The Bootcamp was conducted on  06<sup>th</sup>-07<sup>th</sup> March 2024, and its duration spanned  Day1 2Hours and Day2 2Hours total 4 Hours Bootcamp, ensuring participants had ample time to acquire the skills and knowledge necessary to excel in the field of AWS .
+                The Bootcamp was conducted on  03<sup>rd</sup>-4<sup>th</sup> April 2024, and its duration spanned  Day1 2Hours and Day2 2Hours total 4 Hours Bootcamp, ensuring participants had ample time to acquire the skills and knowledge necessary to excel in the field of MERN .
                 </p>
             </div>
         </div>

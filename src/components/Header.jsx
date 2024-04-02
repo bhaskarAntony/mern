@@ -17,7 +17,6 @@ function Header() {
           <span>Free AWS  Bootcamp</span>
           <span>Free AWS  Bootcamp</span>
           <span>Free AWS  Bootcamp</span>
-         
         </div>
       </marquee>
     <nav className="navbar navbar-expand-lg navbar-dark  p-3">

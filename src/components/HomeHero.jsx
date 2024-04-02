@@ -15,11 +15,11 @@ function HomeHero() {
      {/* <div className="blur1 d-none d-sm-none d-md-block"></div>
       <div className="blur2 d-none d-sm-none d-md-block"></div> */}
     
-          <p className='p-2 text-black bg-white rounded-5 mb-3 mt-3 d-inline-block'>AWS  Bootcamp</p>
-        <h1 className="heading-text  text-white mt-3 text-900 py-2">Secret Blueprint for  High-Paid <span className="text-main">AWS career</span></h1>
-        <div className="p-large text-white">Live Q&A Session With Experts, <br />Get Easiest Part To Learn complete AWS,  Get E-Certificate and Study Meterial</div>
+          <p className='p-2 text-black bg-white rounded-5 mb-3 mt-3 d-inline-block'>Developing An Email API Using MERN</p>
+        <h1 className="heading-text  text-white mt-3 text-900 py-2">Secret Blueprint for  High-Paid <span className="text-main">MERN career</span></h1>
+        <div className="p-large text-white">Live Q&A Session With Experts, <br />Get Easiest Part To Learn complete MERN,  Get E-Certificate and Study Meterial</div>
         <div className="date-container mt-5 text-start justify-content-start">
-            <button className="div-block-876"> <i class="bi bi-calendar2-event"></i>06th - 07th March 2024 </button>
+            <button className="div-block-876"> <i class="bi bi-calendar2-event"></i>03rd - 04th April 2024 </button>
             <button className="div-block-876"> <i class="bi bi-alarm"></i> 7:30PM to 9:30PM</button>
         </div>
      </div>
