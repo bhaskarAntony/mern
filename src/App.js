@@ -9,7 +9,7 @@ import Scroll from './components/Scroll';
 import { BrowserRouter, useLocation } from 'react-router-dom';
 import ReactGA from 'react-ga';
 import { useEffect } from 'react';
-ReactGA.initialize('G-SH0R0BXYK4');
+ReactGA.initialize('G-LMH0PRB250');
 
 function App() {
   ReactGA.event({
